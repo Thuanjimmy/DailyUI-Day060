@@ -1,0 +1,57 @@
+body {
+  padding: 10% 5%;
+  background-color: #eeebdd;
+}
+a {
+  color: black;
+}
+p {
+  font-size: 0.2rem;
+  margin-bottom: 0;
+}
+h5 {
+  margin-bottom: 0;
+}
+.box {
+  background-color: white;
+  width: 200px;
+  border-radius: 0 0 10px 10px;
+  padding: 10px;
+}
+.colour {
+  width: 200px;
+  height: 250px;
+  border-radius: 10px 10px 0 0;
+}
+.circle {
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  text-align: center;
+}
+.flex {
+  display: flex;
+  justify-content: space-between;
+}
+.flex1 {
+  display: flex;
+}
+.bigbox {
+  margin: 10px auto;
+  box-shadow: grey 5px 5px 5px 5px;
+}
+.CDDDDDD {
+  background-color: #dddddd;
+}
+.C222831 {
+  background-color: #222831;
+}
+.C30475e {
+  background-color: #30475e;
+}
+.Cf05454 {
+  background-color: #f05454;
+}
+.white {
+  color: white;
+}
